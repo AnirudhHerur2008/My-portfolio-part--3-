@@ -1,0 +1,18 @@
+h1,h2,h3,h4,p{
+    color: greenyellow;
+}
+
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStTa2yC2b6z0NN39sIIebh18BBo-1huSHtbg&usqp=CAU);
+}
+
